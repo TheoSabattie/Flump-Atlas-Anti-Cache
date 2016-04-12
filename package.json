@@ -1,0 +1,29 @@
+{
+  "name": "Flump Atlas Anti Cache",
+  "version": "1.0.0",
+  "description": "Added get param on atlas name file to prevent cache on load",
+  "main": "index.js",
+  "dependencies": {
+    "fs-extra": "^0.26.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheoSabattie/Flump-Atlas-Anti-Cache.git"
+  },
+  "keywords": [
+    "Flump",
+    "Atlas",
+    "Anti-cache",
+    "Load"
+  ],
+  "author": "Théo Sabattié",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheoSabattie/Flump-Atlas-Anti-Cache/issues"
+  },
+  "homepage": "https://github.com/TheoSabattie/Flump-Atlas-Anti-Cache"
+}
